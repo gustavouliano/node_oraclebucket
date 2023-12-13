@@ -1,0 +1,19 @@
+{
+  "name": "node_oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "mysql2": "^3.0.0",
+    "oci-sdk": "2.73.0",
+    "oracle-nosqldb": "^5.5.0",
+    "pg": "^8.11.3"
+  }
+}
