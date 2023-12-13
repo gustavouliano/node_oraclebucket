@@ -10,10 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bunyan": "^1.8.15",
-    "mysql2": "^3.0.0",
-    "oci-sdk": "2.73.0",
-    "oracle-nosqldb": "^5.5.0",
-    "pg": "^8.11.3"
+    "oci-sdk": "2.73.0"
   }
 }

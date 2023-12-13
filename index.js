@@ -14,7 +14,7 @@ const rl = readline.createInterface({
 });
 
 async function main() {
-    rl.question('Digite a opção (adicionar ou excluir): ', async (option) => {
+    rl.question('Digite a opção (adicionar, excluir ou listar): ', async (option) => {
         const bucketName = 'bucket';
         const namespaceName = 'grxxqdbqy9jj';
         if (option == 'adicionar') {
